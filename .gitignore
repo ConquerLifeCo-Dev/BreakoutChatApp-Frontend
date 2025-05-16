@@ -1,6 +1,5 @@
 # node_modules and build output
 node_modules/
-lib/
 .expo/
 
 # Logs
