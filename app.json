@@ -1,0 +1,5 @@
+{
+  "name": "BreakoutchatExpoapp",
+  "slug": "BreakoutchatExpoapp",
+  "platforms": ["ios", "android", "web"]
+}
