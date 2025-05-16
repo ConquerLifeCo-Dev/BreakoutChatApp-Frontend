@@ -1,6 +1,11 @@
 {
   "name": "breakoutchatappfrontend",
   "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "dev": "expo start",
     "build": "tsc"
