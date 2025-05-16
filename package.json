@@ -1,5 +1,5 @@
 {
-  "name": "breakoutchatexpoapp",
+  "name": "breakoutchatappfrontend",
   "version": "1.0.0",
   "scripts": {
     "dev": "expo start",
